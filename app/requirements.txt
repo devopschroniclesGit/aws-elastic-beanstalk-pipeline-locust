@@ -1,2 +1,4 @@
-locust==2.24.0
-boto3==1.34.0
+locust==2.37.10
+gunicorn==23.0.0
+gevent==25.5.1
+greenlet==3.2.4
