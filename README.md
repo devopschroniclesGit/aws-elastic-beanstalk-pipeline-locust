@@ -1,5 +1,7 @@
 # AWS SDLC Automation Project
 
+GITHUB
+
 This project demonstrates an end-to-end AWS-native CI/CD pipeline using:
 
 - CodePipeline
