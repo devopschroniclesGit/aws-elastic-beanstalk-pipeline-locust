@@ -22,3 +22,12 @@ This aligned the application port with the Elastic Beanstalk nginx upstream conf
 ### Outcome
 
 Locust UI successfully accessible via Elastic Beanstalk environment URL.
+
+# IAM Troubleshooting Notes
+
+Resolved deployment failures caused by missing permissions for:
+- Elastic Beanstalk
+- CloudFormation
+- EC2
+- SNS
+- Auto Scaling
